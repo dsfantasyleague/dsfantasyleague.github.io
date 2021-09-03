@@ -14,15 +14,9 @@ author: The Commish
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Money: "money"
-  Rules & Scoring:
-    - Draft: "https://beautifuljekyll.com"
-    - Free Agency: "https://www.markdowntutorial.com/"
-    - Scoring: "https://www.markdowntutorial.com/"
-    - Other Settings: "https://www.markdowntutorial.com/"
-  Sleeper:
-    - Docs: "https://support.sleeper.app/en/collections/410900-fantasy-football"
-  League Home: "https://sleeper.app/leagues/728678177018347520"
+  Sleeper: 
+    - League: "https://sleeper.app/leagues/728678177018347520"
+    - Support: "https://support.sleeper.app/en/"
 
 # --- Logo --- #
 
