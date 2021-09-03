@@ -1,16 +1,41 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: League Fees & Payouts
+subtitle: Money, it's a gas
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### League Dues
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- $50 per team
 
-What else do you need?
+### Payouts
 
-### My story
+Depending on total number of teams (10 or 12), using the 60/30/10 percentages:
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+## 10 Team - $500 pot
+- 1st Place: $300
+- 2nd Place: $150
+- 3rd Place: $50
+
+## 12 Team - $600 pot
+- 1st Place: $360
+- 2nd Place: $180
+- 3rd Place: $60
+
+### Optional Payouts
+
+As an additional payout option, we could also do high points using 50/25/10 and 15 for high points:
+
+## 10 Team - $500 pot
+- 1st Place: $250
+- 2nd Place: $125
+- 3rd Place: $50
+- Most points (season) scored: $50
+- Most points (single week) scored: $25
+
+## 12 Team - $600 pot
+- 1st Place: $300
+- 2nd Place: $150
+- 3rd Place: $60
+- Most points (season) scored: $70
+- Most points (single week) scored: $20
