@@ -7,8 +7,10 @@ subtitle: Grab that cash with both hands and make a stash!
 ## League Dues
 - $50 per team
 - League fees must be paid to Commish before Playoffs start (week 14)
+- Check Sleeper chat for additional info
 
 ## Payouts
+- Commish will pay winners 1 day after Playoffs have completed
 - Depending on total number of teams (10 or 12), using the 60/30/10 percentages:
 
 ### 10 Team - $500 pot
