@@ -6,9 +6,10 @@ subtitle: Grab that cash with both hands and make a stash!
 
 ## League Dues
 - $50 per team
+- League fees must be paid to Commish before Playoffs start (week 14)
 
 ## Payouts
-Depending on total number of teams (10 or 12), using the 60/30/10 percentages:
+- Depending on total number of teams (10 or 12), using the 60/30/10 percentages:
 
 ### 10 Team - $500 pot
 - 1st Place: $300
@@ -21,7 +22,7 @@ Depending on total number of teams (10 or 12), using the 60/30/10 percentages:
 - 3rd Place: $60
 
 ## Optional Payouts
-As an additional payout option, we could also do high points using 50/25/10 and 15 for high points:
+- As an additional payout option, we could also do high points using 50/25/10 and 15 for high points:
 
 ### 10 Team - $500 pot
 - 1st Place: $250
