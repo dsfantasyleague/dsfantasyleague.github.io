@@ -80,4 +80,4 @@ The top 6 teams overall will make the playoffs. The top 2 teams will receive a 1
 Playoffs will be re-seeded (Highest seeded team always plays lowest seed).
 
 ## Disclaimer
-_Rules and settings are not final and subject to change. I'm not perfect._
+_I may have missed something. Rules and settings are not final and subject to change. I'm not perfect._
