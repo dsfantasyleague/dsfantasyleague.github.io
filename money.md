@@ -1,7 +1,7 @@
 ---
 layout: page
-title: League Fees & Payouts
-subtitle: Money, it's a gas
+title: Money
+subtitle: Grab that cash with both hands and make a stash!
 ---
 
 ### League Dues
