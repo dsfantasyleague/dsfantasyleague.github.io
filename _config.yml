@@ -6,19 +6,23 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: DS Fantasy League
 
 # Your name to show in the footer
-author: Some Person
+author: The Commish
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Money: "money"
+  Rules & Scoring:
+    - Draft: "https://beautifuljekyll.com"
+    - Free Agency: "https://www.markdowntutorial.com/"
+    - Scoring: "https://www.markdowntutorial.com/"
+    - Other Settings: "https://www.markdowntutorial.com/"
+  Sleeper:
+    - Instructions: "https://beautifuljekyll.com"
+  League Home: "https://deanattali.com"
 
 # --- Logo --- #
 
