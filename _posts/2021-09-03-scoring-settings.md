@@ -16,7 +16,7 @@ I mean seriously, if you don't know what PPR means, why are you even here? KIDDI
 - Playoffs: start week 15 (1 week per round)
 
 ## Draft
-As of right now the draft is scheduled for Wednesday, September 7th at 7pm Central. You will get up to 2 minutes per pick.
+As of right now the draft is scheduled for Wednesday, September 7th at 7pm Central. You will get up to 2 minutes per pick. Note: *If you do not pick a player within the 2 minutes you will be auto-picked.*
 
 Draft Order will be randomized 3 times once league fills. This will be the final draft order.
 
