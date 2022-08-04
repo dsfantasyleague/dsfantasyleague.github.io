@@ -6,18 +6,17 @@ cover-img: /assets/img/settings.jpeg
 thumbnail-img: /assets/img/settings.jpeg
 ---
 
-I mean seriously, if you don't know what PPR means, why are you even here? KIDDING! Below are some high level scoring & settings highlights. All of this information can be found in Sleeper, but I'm a nerd and like creating shit like this. If you have any questions, hit the chat feature on our [League](https://sleeper.app/leagues/728678177018347520) page.
+I mean seriously, if you don't know what PPR means, why are you even here? KIDDING! Below are some high level scoring & settings highlights. All of this information can be found in Sleeper, but I'm a nerd and like creating shit like this. 
 
 ## General
 - PPR Scoring
 - Free Agency: $100 FAAB
 - No Kickers or DST
-- Regular Season: 13 Weeks
-- Playoffs: start week 14 (1 week per round)
-- Championship: Week 16
+- Regular Season: 14 Weeks
+- Playoffs: start week 15 (1 week per round)
 
 ## Draft
-As of right now the draft is scheduled for Wednesday, September 8th at 7pm Central. You will get up to 5 minutes per pick.
+As of right now the draft is scheduled for Wednesday, September 7th at 7pm Central. You will get up to 2 minutes per pick.
 
 Draft Order will be randomized 3 times once league fills. This will be the final draft order.
 
